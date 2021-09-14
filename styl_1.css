@@ -1,0 +1,40 @@
+body{
+    font-family: Verdana, 'sans-serif';
+
+}
+
+.baner{
+    background-color: #4682B4;
+    font-size: 120%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.stopka{
+    background-color: #4682B4;
+    font-size: 120%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    clear: both;
+}
+
+.lewy{
+    background-color: #40e0d0;
+    width: 40%;
+    height: 500px;
+    float: left;
+}
+
+.prawy{
+    background-color: #40e0d0;
+    height: 500px;
+    width: 60%;
+    float: right;
+}
+
+img{
+    padding: 5px;
+    margin: 10px;
+    border: solid #000080 1px;
+}
